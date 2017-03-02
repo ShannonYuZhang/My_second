@@ -1,2 +1,1 @@
 This is the change I want to preserve.
-This is my first GitHub repository.
