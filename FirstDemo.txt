@@ -1,2 +1,3 @@
 ﻿Add this, and indent next line.
 	This is the change I want to preserve.
+check git diff command
